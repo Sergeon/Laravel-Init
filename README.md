@@ -16,7 +16,7 @@ To watch changes within .scss and .js files, just:
 
 (use flag `--production` to minify assets)
 
-This project, as Laravel 5.2 by default, uses [Elixir](https://github.com/laravel/elixir) around Gulp for the task runner. Just check the documentacion if you want to use perform more tasks. 
+This project, as Laravel 5.2 by default, uses [Elixir](https://github.com/laravel/elixir) around Gulp for the task runner. Just check the documentacion if you want to perform more tasks. 
 
 
 ###structure:
