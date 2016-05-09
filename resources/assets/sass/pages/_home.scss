@@ -1,0 +1,39 @@
+
+
+
+
+
+header{
+    background-color: $header;
+}
+
+footer{
+    background-color : $footer;
+}
+
+
+header , footer{
+    height: 10vh;
+}
+
+main{
+    width : 100%;
+    display: table;
+
+    height : 80vh;
+    color : $main;
+}
+
+
+
+.init-container {
+
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.content {
+    text-align: center;
+    display: inline-block;
+    width : 100%;
+}
