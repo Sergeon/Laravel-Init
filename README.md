@@ -9,6 +9,8 @@ jQuery and Bootstrap are built-in, with some scss files under `resources/assets/
 
 In the / of the app:
 
+`composer update`
+
 ``` npm install ```
 
 To watch changes within .scss and .js files, just:
